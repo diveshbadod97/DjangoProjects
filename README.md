@@ -1,13 +1,13 @@
 # DjangoProjects
 Main goals behind these projects were to learn basic technical concepts of Django like models, views, templates, signals, forms and more.
+Checkout Screenshots folder in each project for the final results.
+
 
 
 ## 1. CNN with Django
 1. Django Project used to build an application for image classification
 2. MNIST dataset was used to train and test the CNN
 3. React sketch was used for frontend, user can sketch handwritten numbers on the board and submit the image to backend where CNN will classify the image
-4. Checkout Screenshots folder
-
 
 ## 2. Django Customer Relationship Management(DJCRM)
 1. A basic CRM application built entirely using Django
