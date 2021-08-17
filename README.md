@@ -1,6 +1,5 @@
 # DjangoProjects
 Main goals behind these projects were to learn basic technical concepts of Django like models, views, templates, signals, forms and more.
-Checkout Screenshots folder in each project for the final results.
 
 
 
